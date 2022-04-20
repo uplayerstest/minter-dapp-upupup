@@ -1,5 +1,5 @@
-const contractAddress = "0xfbfCAB846c495ca5848Ecf62a22Ca37Eb01d13b2"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x0F22D98f8c1c24Bc00b7Dd3242f702DfFc41453E"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Ukiyo Players Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
