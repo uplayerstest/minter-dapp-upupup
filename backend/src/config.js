@@ -7,7 +7,7 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Ukiyo Player";
+const namePrefix = "Ukiyo Player Official";
 const description = "Ukiyo Players is a collection of 10,000 descendants of Kami who together determine the fate of Metakai.A mystic place where players meet up, play together and create together. Community-driven Anime and Manga series as well as online P2E gaming utility.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
